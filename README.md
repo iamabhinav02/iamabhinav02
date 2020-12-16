@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/iamabhinav02/iamabhinav02/iamabhinav02/readme_header.png "Header")]
+[![Michael Scott](https://raw.githubusercontent.com/iamabhinav02/iamabhinav02/master/header.jpg "Header")]
 
 Here are some ideas to get you started:
 
