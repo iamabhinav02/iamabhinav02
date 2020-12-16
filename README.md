@@ -3,7 +3,7 @@
 </p>
 
 <h1 align='center'> Hey there human! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<h3 align='center'> I'm not superstitious but I'm a little stitious </h3>
+<h4 align='center'> <i> I'm not superstitious.. but I'm a little stitious </i> </h4>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
