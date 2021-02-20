@@ -32,7 +32,7 @@
 ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=2bbc8a)
 ![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## &#11088; GitHub Stats
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=iamabhinav02&show_icons=true&theme=radical&include_all_commits=true&hide_title=true)
 
