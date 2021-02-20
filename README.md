@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/iamabhinav02/iamabhinav02/master/header_image.jpg" width="600px">
 
 <h1>Hey there human! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<h4><i>I'm not superstitious.. but I'm a little stitious</i></h4>
+<h4>I'm not superstitious.. but I'm a little stitious</h4>
 
-<h3>Feel free to connect with me here:</h3>
+<h2>Connect with me here - </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-iamabhinav02-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamabhinav02/)](https://www.linkedin.com/in/iamabhinav02/)
 [![Instagram Badge](https://img.shields.io/badge/-abhinavkumar____-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/abhinavkumar____/)](https://instagram.com/abhinavkumar____)
@@ -36,7 +36,7 @@
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=iamabhinav02&show_icons=true&theme=radical&include_all_commits=true&hide_title=true)
 
-## Do we speak the same language ?
+## 💻 Do we speak the same language ?
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhinav02&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
